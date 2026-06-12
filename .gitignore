@@ -1,0 +1,11 @@
+# Build output
+/build/
+/cmake-build-*/
+*.o
+*.obj
+*.exe
+
+# OS / editor cruft
+.DS_Store
+__MACOSX/
+.idea/
